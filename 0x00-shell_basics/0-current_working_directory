@@ -1,3 +1,2 @@
-#!/bin/bash
-pwd
+#!bin/bash
 realpath "$0"
